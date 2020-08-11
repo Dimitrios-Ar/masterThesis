@@ -10,6 +10,10 @@ This repository will be updated before the 10th of August at 23:59, allowing som
 
 * Dimitrios Arapis
 
+## Youtube video
+
+[![All Nodes](http://img.youtube.com/vi/vxlJEtF77CI/0.jpg)](https://youtu.be/vxlJEtF77CI "All Nodes")
+
 ## License
 
 ## Acknowledgments
